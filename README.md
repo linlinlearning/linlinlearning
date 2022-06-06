@@ -2,7 +2,7 @@
 Thank you for stopping by! 
 - ✏️ I'm a technical writer of both hardware and software products.
 - 📘 I'm learning HTML, JavaScript, and CSS now.
-- 🌱 My goal is to become a back-end developer.
+- 🌱 My goal is to become a web developer (preferably back-end).
 - 🎹 I like to play piano, make music, watch movies, and take food photos.
 - 📧 Here's my email: linlinlearning@gmail.com
 
